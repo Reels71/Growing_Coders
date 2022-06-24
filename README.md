@@ -1,2 +1,3 @@
-# Growing_Coders
-Internship on Programming Language @ Osigla
+# Growing_Coders.
+Internship on frontend Programming @ Osigla.
+Basic projects for beginners.
