@@ -1,0 +1,34 @@
+body
+.container{background-color: rgba(128, 128, 128, 0.061)}
+.heading{font-family:Arial, Helvetica, sans-serif;
+   color: grey; font-size: 12px; display: flex; 
+   justify-content: center;
+}
+.style{
+    display: flex; 
+   justify-content: center;
+}
+.values{
+   background: white;
+   border-radius:5px; 
+   font-family:sans-serif;
+   height:160px; width:150px;
+   margin:5px; padding:0 10px 0 20px;
+   
+}
+.values h5{font-size: 15px; color: rgba(0, 0, 0, 0.755) ;
+           position: relative; bottom:10px;
+           
+}
+.values pre{
+    font-size: 12px;
+    position: relative; bottom:60px;
+    color: rgb(128, 128, 128);
+    line-height:20px;
+    margin-left:-70px;
+    font-family:sans-serif;
+}
+.values h2{
+   position: relative; bottom: 60px; margin-left: -22px;
+   color: yellow; 
+}

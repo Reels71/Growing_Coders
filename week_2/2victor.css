@@ -1,0 +1,149 @@
+body
+.container{
+    max-width: 1200px; margin-left: 70px; box-shadow: 1px 1px 5px 3px
+}
+.SP1{
+    background-color: rgb(0, 179, 255); position:relative; top:0px
+}
+.useful{float:right; margin-right: 280px;}
+.SP2{
+    background-color:rgb(240, 245, 245)
+}
+.uni{margin-left: 15%; position: relative; top:10px; font-size: 15px;}
+.fontuser{float: right; margin-right:60px; position: relative;
+    bottom:12px; background-color: white; border:10px;
+    box-shadow: 1px 1px 1px 1px 
+}
+.fontuser input{border:0px}
+.SP3{color:rgb(0, 123, 255); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.img{
+    display:flex; position: relative; top:20px;
+    margin-left: 100px;
+}
+.abraka{ position:relative; top:20px; margin-left: -70px; color:black;}
+.courses{
+    float: right; margin-right: 100px; position: relative; bottom: 30px;
+}
+.SP4{
+    position: relative; bottom:10px ;
+    background-image: url("2imgclass.PNG");
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+    height: 600px;
+    overflow: hiden;
+}
+.SP4 h1{color: white; font-size:60px; margin-left:0px;
+        position:relative; top:0px;  background-color: rgb(0, 123, 255, 0.7);
+        clip-path: polygon(0 0, 65% 0, 45% 100%, 0% 100%);
+        padding: 250px;  
+}
+.SP4 h3{color:rgb(0, 123, 255);margin:0px 750px 0px 210px;
+     position:relative; bottom:280px; background-color:white;
+     padding: 20px 20px 20px 30px;
+}
+.SP5{background-color: rgb(240, 245, 245); position: relative;
+    bottom: 40px;
+}
+.SP5 h1{
+     color:rgb(0, 123, 255); display: flex; justify-content: center; 
+     position: relative;top:10px;
+}
+.SP5B{
+    display: flex; 
+    justify-content: center; 
+}
+.SP5B input{border:px; padding:10px 100px 10px 100px; 
+    box-shadow:1px 0px 0px 0px 
+}
+.SP5B i{color: white; background-color:rgb(0, 123, 255); 
+    padding:10px; 
+   
+}
+.SP6{
+    margin:0px 0px 180px 120px; background-color:rgb(240, 245, 245); position: relative; top:80px
+}
+.P2{display:flex; margin-right:50px; position: relative; bottom:25px}
+.P2 h1{color:rgb(0, 123, 255); margin-left:80px;}
+.lorem{ position: relative; top:15px; margin-left: 20px;
+}
+.P3{
+    position: relative; bottom:100px; background-color:rgb(240, 245, 245);
+    
+}
+.P3 h2{
+    color: white; margin:5px 700px 5px 0px;background-color:rgb(0, 123, 255);
+    ;padding:20px 20px 20px 100px; position: relative; top:30px; 
+    clip-path: polygon(0 0, 65% 0, 55% 100%, 0% 100%)
+}
+.recent{
+     margin-left: 300px; position: relative; top:50px;
+     
+}
+.P3 h3{
+    position: relative;bottom:70px; margin-left: 130px; color:rgb(0, 123, 255)
+}
+.candidate{
+    position: relative; bottom:85px; margin-left: 130px; 
+}
+
+.P4{
+    position:relative; bottom:70px
+}
+.P4 h2{
+color:rgb(0, 123, 255); display:flex; justify-content: center;
+}
+.icons{
+    display: flex; justify-content: center; position: relative;
+    top:10px
+}
+.schbldng{
+    padding:20px; margin:0px 80px; color:white; background-color:rgb(0, 123, 255);
+    border-radius:50px 
+}
+.span1{
+   display: flex; justify-content: center; position: relative;
+   top:20px; list-style:none;}
+.span1 li{
+    margin: 0px 60px;
+}
+.P5{
+    position: relative; bottom:40px ;
+    background-image: url("2imgkids.PNG");
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+    height: 394px
+}
+.P5 h2{
+    color: white; font-size:40px; margin-left:0px;
+        position:relative; top:0px; background-color: rgb(0, 123, 255);
+        clip-path: polygon(0 0, 65% 0, 45% 100%, 0% 100%);
+        padding: 150px;  
+}
+.P5 h3{
+    color:rgb(0, 123, 255); font-size:15px;
+    margin-left:150px; position:relative; bottom:160px; background-color:white;
+    margin-right:900px;padding: 20px;
+}
+.P6{
+    position: relative; bottom:35px; display: flex; justify-content: center; 
+}
+.P6 p{
+    padding-right:80px; color:rgb(0, 123, 255);
+}
+.P6 p i{
+    padding:3px; margin:0px 10px; color:white; background-color:grey
+    ;border-radius:30px; position: relative; top:8px
+}
+
+.P7{
+    position: relative; bottom:20px; color: rgb(0, 123, 255);
+}
+.SP7{
+    display: flex; justify-content: right; position: relative; top:-15px;
+    margin-right: 180px;
+}
+.span2{
+    position: relative; top:-50px; margin-left: 150px;
+}
